@@ -1,4 +1,19 @@
 
+@media (max-width: 320px) {
+  body {
+    font-size: 12px;
+  }
+}
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+html{
+    box-sizing:border-box;
+}
+
 body {
 background-color : #112957;
 text-align:center ;
